@@ -1,0 +1,126 @@
+{
+  "version": "1.0.1",
+  "renderType": "multisparrow",
+  "danceEvery": 1,
+  "scale": 1,
+  "flipX": false,
+  "name": "Girlfriend V3 (ALT)",
+  "cameraOffsets": [ 50, 40 ],
+  "isPixel": false,
+  "death": {
+    "cameraOffsets": [-137, 125]
+  },
+  "singTime": 8,
+  "healthIcon": {
+    "isPixel": false,
+    "id": "gf"
+  },
+  "assetPath": "characters/GF_V3",
+  "animations": [
+    {
+      "prefix": "gfDanceLeft",
+      "offsets": [0, 0],
+      "name": "danceLeft",
+      "looped": false
+    },
+    {
+      "prefix": "gfDanceRight",
+      "offsets": [-13, 0],
+      "name": "danceRight",
+      "looped": false
+    },
+    {
+      "prefix": "gfUp",
+      "offsets": [0, 26],
+      "name": "singUP",
+      "looped": false
+    },
+    {
+      "prefix": "gfLeft",
+      "offsets": [40, -1],
+      "name": "singLEFT",
+      "looped": false
+    },
+    {
+      "prefix": "gfRight",
+      "offsets": [-108, -38],
+      "name": "singRIGHT",
+      "looped": false
+    },
+    {
+      "prefix": "gfDown",
+      "offsets": [2, -30],
+      "name": "singDOWN",
+      "looped": false
+    },
+    {
+      "prefix": "gfMISSUp",
+      "offsets": [-13, 39],
+      "name": "singUPmiss",
+      "looped": false
+    },
+    {
+      "prefix": "gfMISSLeft",
+      "offsets": [42, -32],
+      "name": "singLEFTmiss",
+      "looped": false
+    },
+    {
+      "prefix": "gfMISSRight",
+      "offsets": [-98, -53],
+      "name": "singRIGHTmiss",
+      "looped": false
+    },
+    {
+      "prefix": "gfMISSDown",
+      "offsets": [-6, -34],
+      "name": "singDOWNmiss",
+      "looped": false
+    },
+    {
+      "prefix": "gfPreAttack",
+      "offsets": [-55, -19],
+      "name": "gfPreAttack",
+      "looped": false
+    },
+    {
+      "prefix": "gfAttack",
+      "offsets": [315, -25],
+      "name": "gfAttack",
+      "looped": false
+    },
+    {
+      "prefix": "gfHurt",
+      "offsets": [-59, -44],
+      "name": "gfHurt",
+      "looped": false
+    },
+    {
+      "prefix": "gfHey",
+      "offsets": [-26, 1],
+      "name": "hey",
+      "looped": false
+    },
+    {
+      "offsets": [275, 33],
+      "assetPath": "characters/GF_DeadAlt",
+      "prefix": "gfTantrumStart",
+      "name": "firstDeath",
+      "looped": false
+    },
+    {
+      "offsets": [276, -349],
+      "assetPath": "characters/GF_DeadAlt",
+      "prefix": "gfTantrumLoop",
+      "name": "deathLoop",
+      "looped": true
+    },
+    {
+      "offsets": [302, -349],
+      "assetPath": "characters/GF_DeadAlt",
+      "prefix": "gfTantrumConfirm",
+      "name": "deathConfirm",
+      "looped": false
+    }
+  ]
+}
