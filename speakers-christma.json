@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "name": "Speakers (Christmas)",
+  "assetPath": "characters/gfChristmasplayable",
+  "startingAnimation": "danceLeft",
+  "animations": [
+    {
+      "name": "danceLeft",
+      "prefix": "GF Dancing Beat",
+      "frameIndices": [1, 2, 3],
+      "offsets": [0, 50]
+    },
+    {
+      "name": "danceRight",
+      "prefix": "GF Dancing Beat",
+      "frameIndices": [4,5,6]
+      ],
+      "offsets": [0, 50]
+    }
+  ]
+}
