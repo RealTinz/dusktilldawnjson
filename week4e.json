@@ -1,0 +1,26 @@
+{
+	"storyName": "MOMMY MUST MURDER",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"weekBefore": "week7",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"HighF",
+			"mom",
+			[
+				252,
+				150,
+				215
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"mom",
+		"gf",
+		"bf"
+	],
+	"weekName": "Week 4 funkadelix"
+}
