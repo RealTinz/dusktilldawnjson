@@ -1,0 +1,14 @@
+{
+    "title": "Friday Night Funkin: Neo",
+    "description": "Adds Neo songs to play.",
+    "contributors": [
+    {
+      "name": "JellyFishEDM",
+	  "role": "Director, Composer",
+	  "url": "https://www.youtube.com/channel/UCVgVvwOzvsR8pRwVy316SyA"
+    }
+    ],
+  "api_version": "0.7.5",
+  "mod_version": "2.0.0",
+  "license": "Apache-2.0"
+}
