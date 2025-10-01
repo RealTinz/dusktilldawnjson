@@ -1,0 +1,137 @@
+{
+    "version": "1.0.0",
+    "name": "Qt Kbv2",
+    "assetPath": "characters/qt-kbV2",
+    "singTime": 6.1,
+    "isPixel": false,
+    "scale": 1,
+    "healthIcon": {
+        "id": "qt-kbv2",
+        "isPixel": false,
+        "flipX": false,
+        "scale": 1
+    },
+    "animations": [
+        {
+            "name": "idle-loop",
+            "prefix": "Dad idle dance",
+            "offsets": [
+                4,
+                0
+            ],
+            "frameRate": 24,
+            "frameIndices": [
+                10,
+                11,
+                12,
+                12
+            ]
+        },
+        {
+            "name": "singLEFT-loop",
+            "prefix": "Dad Sing Note LEFT",
+            "offsets": [
+                -9,
+                10
+            ],
+            "frameRate": 24,
+            "frameIndices": [
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "name": "singRIGHT-loop",
+            "prefix": "Dad Sing Note RIGHT",
+            "offsets": [
+                0,
+                27
+            ],
+            "frameRate": 24,
+            "frameIndices": [
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "name": "singUP-loop",
+            "prefix": "Dad Sing Note UP",
+            "offsets": [
+                -6,
+                50
+            ],
+            "frameRate": 24,
+            "frameIndices": [
+                56,
+                57,
+                58,
+                59
+            ]
+        },
+        {
+            "name": "hey",
+            "prefix": "WhatYouKnowAboutRollingDownInTheDeep",
+            "offsets": [
+                140,
+                -100
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "idle",
+            "prefix": "danceLeftNormal",
+            "offsets": [
+                301,
+                -105
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singLEFT",
+            "prefix": "singLeftQT",
+            "offsets": [
+                277,
+                -74
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singRIGHT",
+            "prefix": "singRightQT",
+            "offsets": [
+                163,
+                -135
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singDOWN",
+            "prefix": "singDownQT",
+            "offsets": [
+                222,
+                -184
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        },
+        {
+            "name": "singUP",
+            "prefix": "singUpQT",
+            "offsets": [
+                285,
+                -80
+            ],
+            "frameRate": 24,
+            "frameIndices": []
+        }
+    ],
+    "flipX": false
+}
