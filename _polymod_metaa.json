@@ -1,0 +1,10 @@
+{
+  "title": "Vs Sky",
+  "description": "Vs Sky (ModSky) V-Slice port",
+  "contributors": [{
+    "name": "Jamextreme140"
+  }],
+  "api_version": "0.7.5",
+  "mod_version": "1.2.2",
+  "license": "Apache-2.0"
+}
