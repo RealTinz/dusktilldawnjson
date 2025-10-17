@@ -1,0 +1,74 @@
+{
+  "version": "1.0.0",
+  "name": "BFF V1.0",
+  "assetPath": "characters/BestFriend",
+  "startingAnimation": "danceRight",
+  "singTime": 8.0,
+  "animations": [
+    {
+      "name": "danceLeft",
+      "prefix": "bff idle0",
+      "frameIndices": [1, 2],
+      "offsets": [0, -9]
+    },
+    {
+      "name": "danceRight",
+      "prefix": "bff idle0",
+      "frameIndices": [
+        3, 4, 5
+      ],
+      "offsets": [0, -9]
+    },
+    {
+      "name": "sad",
+      "prefix": "bff mad0",
+      "frameIndices": [1, 2, 3],
+      "offsets": [-1, -11]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "bff left0",
+      "offsets": [-1, 20]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "bff down0",
+      "offsets": [-1, -12]
+    },
+    {
+      "name": "singUP",
+      "prefix": "bff up0",
+      "offsets": [0, 9]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "bff right0",
+      "offsets": [0, 27]
+    },
+    {
+      "name": "cheer",
+      "prefix": "bff hey0",
+      "offsets": [1, 16]
+    },
+    {
+      "name": "combo50",
+      "prefix": "bff hey0",
+      "offsets": [1, 16]
+    },
+    {
+      "name": "drop70",
+      "prefix": "bff mad0",
+      "offsets": [-1, -11]
+    },
+	     {
+      "name": "combo200",
+      "prefix": "bff hey0",
+      "offsets": [0, -9]
+    },
+    {
+      "name": "scared",
+      "prefix": "bff scared"0,
+      "offsets": [0, -9]
+    }
+  ]
+}
