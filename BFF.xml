@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="BestFriend.png" width="1690" height="1979">
+	<SubTexture name="bff down0001" x="665" y="514" width="329" height="508" frameX="-31" frameY="-0" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="bff down0002" x="997" y="514" width="329" height="508" frameX="-31" frameY="-0" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="bff hey0001" x="1" y="1033" width="329" height="471" frameX="-31" frameY="-0" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="bff hey0002" x="333" y="1033" width="329" height="471" frameX="-31" frameY="-0" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="bff hey0003" x="665" y="1025" width="329" height="471" frameX="-31" frameY="-0" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="bff idle0001" x="997" y="1025" width="329" height="471" frameX="-31" frameY="-0" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="bff idle0002" x="1360" y="1" width="329" height="471" frameX="-31" frameY="-0" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="bff idle0003" x="1360" y="475" width="329" height="471" frameX="-31" frameY="-0" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="bff idle0004" x="1329" y="949" width="334" height="471" frameX="-26" frameY="-0" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="bff idle0005" x="1" y="1507" width="338" height="471" frameX="-22" frameY="-0" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="bff left0001" x="665" y="1" width="341" height="510" frameX="-19" frameY="-0" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="bff left0002" x="1009" y="1" width="348" height="510" frameX="-12" frameY="-0" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="bff mad0001" x="342" y="1507" width="329" height="471" frameX="-31" frameY="-0" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="bff mad0002" x="674" y="1499" width="329" height="471" frameX="-31" frameY="-0" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="bff mad0003" x="1006" y="1499" width="329" height="471" frameX="-31" frameY="-0" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="bff right0001" x="1" y="1" width="329" height="513" frameX="-31" frameY="-0" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="bff right0002" x="333" y="1" width="329" height="513" frameX="-31" frameY="-0" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="bff scared0001" x="1338" y="1423" width="329" height="471" frameX="-31" frameY="-0" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="bff scared0002" x="1338" y="1423" width="329" height="471" frameX="-31" frameY="-0" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="bff scared0003" x="1338" y="1423" width="329" height="471" frameX="-31" frameY="-0" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="bff scared0004" x="1338" y="1423" width="329" height="471" frameX="-31" frameY="-0" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="bff scared0005" x="1338" y="1423" width="329" height="471" frameX="-31" frameY="-0" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="bff up0001" x="1" y="517" width="329" height="513" frameX="-31" frameY="-0" frameWidth="361" frameHeight="516"/>
+	<SubTexture name="bff up0002" x="333" y="517" width="329" height="513" frameX="-31" frameY="-0" frameWidth="361" frameHeight="516"/>
+</TextureAtlas>
