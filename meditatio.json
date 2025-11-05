@@ -81,7 +81,7 @@
 			"offsets": [
 				-206,
 				-178
-	    ],
+	                    ],
 			"frameRate": 24,
 			"prefix": "meditateright",
 			"flipX": false,
