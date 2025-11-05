@@ -1,0 +1,146 @@
+{
+	"version": "1.0.0",
+	"renderType": "multisparrow",
+	"offsets": [
+		-10,
+		-65
+	],
+	"danceEvery": 1,
+	"scale": 0.72,
+	"name": "Meditation Guy",
+	"cameraOffsets": [
+		80,
+		100
+	],
+	"flipX": false,
+	"singTime": 8,
+	"startingAnimation": "idle",
+	"isPixel": false,
+	"assetPath": "characters/MEDITATIONGUY",
+	"healthIcon": {
+		"isPixel": false,
+		"offsets": [
+			0,
+			0
+		],
+		"scale": 1,
+		"id": "meditationguy",
+		"flipX": false
+	},
+	"animations": [
+		{
+			"flipY": false,
+			"offsets": [
+				-170,
+				-180
+			],
+			"frameRate": 24,
+			"prefix": "meditate idle",
+			"flipX": false,
+			"looped": false,
+			"name": "idle"
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-126,
+				-175
+			],
+			"frameRate": 24,
+			"prefix": "meditateleft",
+			"flipX": false,
+			"name": "singLEFT",
+			"looped": false
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-185,
+				-203
+			],
+			"frameRate": 24,
+			"prefix": "meditatedown",
+			"flipX": false,
+			"name": "singDOWN",
+			"looped": false
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-159,
+				-153
+			],
+			"frameRate": 24,
+			"prefix": "meditateup",
+			"flipX": false,
+			"name": "singUP",
+			"looped": false
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-206,
+				-178
+	    ],
+			"frameRate": 24,
+			"prefix": "meditateright",
+			"flipX": false,
+			"name": "singRIGHT",
+			"looped": false
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-64,
+				-159
+                        ],
+			"frameRate": 24,
+			"prefix": "NOTCALM",
+			"flipX": false,
+			"name": "singRIGHTmiss",
+			"looped": false
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-159,
+				-153
+                        ],
+			"frameRate": 24,
+			"prefix": "NOTCALM",
+			"flipX": false,
+			"name": "singLEFTmiss",
+			"looped": false
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-159,
+				-153
+                        ],
+			"frameRate": 24,
+			"prefix": "NOTCALM",
+			"flipX": false,
+			"name": "singUPmiss",
+			"looped": false
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-159,
+				-153
+                       ],
+			"frameRate": 24,
+			"prefix": "NOTCALM",
+			"flipX": false,
+			"name": "singDOWNmiss",
+			"looped": false
+		},
+		{
+			"flipY": false,
+			"offsets": [
+				-159,
+				-153
+		}
+	]
+}
